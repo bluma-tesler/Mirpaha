@@ -9,35 +9,43 @@ namespace Mirpaha.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class DoctorController : ControllerBase
+    public class doctorController : ControllerBase
     {
-        private static List<Doctor> doctors = new List<Doctor> { new Doctor ()};
+        private readonly IDataContext _dataContext;
+        //private static List<Doctor> doctors = new List<Doctor> { new Doctor ()};
+        public doctorController(IDataContext dataContext)
+        {
+            _dataContext = dataContext;
+        }
+
+       
 
         [HttpGet]
         public IEnumerable<Doctor> Get()
         {
-            return doctors;
+            return _dataContext.Doctors;
         }
 
         // GET api/<Doctor>/5
         [HttpGet("{id}")]
         public Doctor Get(int id)
         {
-            return doctors.Find(e => e.Id == id);
+            return _dataContext.Doctors.Find(e => e.Id == id);
         }
 
         // POST api/<Doctor>
         [HttpPost]
         public void Post([FromBody] Doctor doctor)
         {
-          doctors.Add(doctor);
+            doctor.Id = _dataContext.Doctors.Any() ? _dataContext.Doctors.Max(e => e.Id) + 1 : 1;
+            _dataContext.Doctors.Add(doctor);
         }
 
         // PUT api/<Doctor>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Doctor doctor)
         {
-            Doctor doctorToUpdate=doctors.Find(e=>e.Id == id);
+            Doctor doctorToUpdate= _dataContext.Doctors.Find(e=>e.Id == id);
             if(doctorToUpdate != null)
             {
                 doctorToUpdate.Name =doctor.Name;  
@@ -49,10 +57,10 @@ namespace Mirpaha.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            Doctor doctorToUpdate = doctors.Find(e => e.Id == id);
+            Doctor doctorToUpdate = _dataContext.Doctors.Find(e => e.Id == id);
             if (doctorToUpdate != null)
             {
-                doctors.RemoveAt(doctorToUpdate.Id-1);
+                _dataContext.Doctors.RemoveAt(doctorToUpdate.Id-1);
             }
 
         }

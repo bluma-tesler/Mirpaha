@@ -30,3 +30,35 @@ E:\תכנות בלימי\net core\שעורי בית\אפליקצית מרפאה\
 E:\תכנות בלימי\net core\שעורי בית\אפליקצית מרפאה\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.pdb
 E:\תכנות בלימי\net core\שעורי בית\אפליקצית מרפאה\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.genruntimeconfig.cache
 E:\תכנות בלימי\net core\שעורי בית\אפליקצית מרפאה\Mirpaha\Mirpaha\obj\Debug\net6.0\ref\Mirpaha.dll
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\appsettings.Development.json
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\appsettings.json
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Mirpaha.exe
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Mirpaha.deps.json
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Mirpaha.runtimeconfig.json
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Mirpaha.dll
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Mirpaha.pdb
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mirpaha\Mirpaha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.csproj.AssemblyReference.cache
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.AssemblyInfoInputs.cache
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.AssemblyInfo.cs
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.csproj.CoreCompileInputs.cache
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.MvcApplicationPartsAssemblyInfo.cs
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.MvcApplicationPartsAssemblyInfo.cache
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets\msbuild.Mirpaha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets\msbuild.build.Mirpaha.props
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mirpaha.props
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mirpaha.props
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets.build.json
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\staticwebassets.development.json
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\scopedcss\bundle\Mirpaha.styles.css
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.csproj.CopyComplete
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.dll
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\refint\Mirpaha.dll
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.pdb
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\Mirpaha.genruntimeconfig.cache
+C:\Mirpaha\Mirpaha\obj\Debug\net6.0\ref\Mirpaha.dll

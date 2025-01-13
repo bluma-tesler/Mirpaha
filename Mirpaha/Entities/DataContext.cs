@@ -1,12 +1,20 @@
 ﻿namespace Mirpaha.Entities
 {
-    public class DataContext
+    public class DataContext:IDataContext
     {
-        public static List<Doctor> Doctors { get; set; }
+
+        public List<Doctor> Doctors { get; set; }
 
         public DataContext()
         {
-            Doctors = new List<Doctor> ();
+            Doctors = new List<Doctor>()
+            {
+                new Doctor()
+                {
+                    Id = 1,
+                    Name = "Foo",
+                }
+            };
         }
     }
 }

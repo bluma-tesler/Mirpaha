@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjuHKK1PRP63GV0js11+uOpbUM7QXuL1cxGevhxwoG7jnSRa5Y/zw2x5tIy3+w/XWx4yjB1161idsyQCAfTLyg==",
+  "dgSpecHash": "BpiBTlpxXKQYKxthNwkpXOHC3eQoSozV5hL8gPg0rynntN0+QFOGgKwBV+mIEtR7WbZoNRDAq9TaBJbS4j3UWw==",
   "success": true,
-  "projectFilePath": "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
+  "projectFilePath": "C:\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

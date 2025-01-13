@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\Mirpaha.csproj": {}
+    "C:\\Mirpaha\\Mirpaha\\Mirpaha.csproj": {}
   },
   "projects": {
-    "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\Mirpaha.csproj": {
+    "C:\\Mirpaha\\Mirpaha\\Mirpaha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
+        "projectUniqueName": "C:\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
         "projectName": "Mirpaha",
-        "projectPath": "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
+        "projectPath": "C:\\Mirpaha\\Mirpaha\\Mirpaha.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "E:\\תכנות בלימי\\net core\\שעורי בית\\אפליקצית מרפאה\\Mirpaha\\Mirpaha\\obj\\",
+        "outputPath": "C:\\Mirpaha\\Mirpaha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

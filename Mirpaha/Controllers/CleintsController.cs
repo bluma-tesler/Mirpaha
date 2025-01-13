@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Mirpaha.Entities;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -6,8 +7,15 @@ namespace Mirpaha.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    
     public class CleintsController : ControllerBase
     {
+        private readonly DataContext _dataContext;
+        public CleintsController(DataContext dataContext)
+        {
+
+        }
+
         // GET: api/<CleintsController>
         [HttpGet]
         public IEnumerable<string> Get()
